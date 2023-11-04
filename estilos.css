@@ -1,0 +1,437 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("gradient-red-background-free-vector.jpg");
+    background-repeat: repeat;
+    
+    }
+    
+        
+        .contenedor{
+        
+        height: 1000px;
+        }
+        .contenedor2{
+        
+         
+        
+            height: 1000px;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+            
+             
+            
+            }
+        .texto{
+        
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: rgb(255, 255, 255);
+        
+        
+        }
+        
+    
+        .contenido{
+
+            height: 280px;
+            width: 100%;
+            float: right;
+            position: absolute;
+            color: white;
+            top: 300px;
+        }
+        .textotecno{
+        
+            font-size: 20px;
+            
+            text-align: center;
+            
+            color: rgb(255, 255, 255);
+            
+            
+            }
+            .imagentecno{
+    
+     
+    
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 230px;
+                
+                width: 441px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url(simple-electric-circuit-experiment-children-260nw-1930312136.webp);
+                
+            }
+            .contenido{
+
+                height: 280px;
+                width: 100%;
+                float: right;
+                position: absolute;
+                color: white;
+                top: 300px;
+            }
+            .textosociales{
+            
+                font-size: 20px;
+                
+                text-align: left;
+                
+                color: rgb(255, 255, 255); }
+
+                .imagensociales{
+    
+    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 411px;
+                    
+                    width: 540px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url(toma_bastilla_2.jpg);
+                    
+                }               
+                .contenido{
+
+                    height: 280px;
+                    width: 100%;
+                    float: right;
+                    position: absolute;
+                    color: white;
+                    top: 300px;
+                }
+                .textomate{
+                
+                    font-size: 20px;
+                    
+                    text-align: right;
+                    
+                    color: rgb(255, 255, 255); }
+                    .imagenmate{
+    
+    
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 194px;
+                        
+                        width: 205px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url(P6-1.png);
+                        
+                    }.contenido{
+
+                        height: 280px;
+                        width: 100%;
+                        float: right;
+                        position: absolute;
+                        color: white;
+                        top: 300px;
+                    }
+                    .textoingles{
+                    
+                        font-size: 20px;
+                        
+                        text-align: right;
+                        
+                        color: rgb(255, 255, 255); }
+                        .imageningles{
+        
+        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 720px;
+                            
+                            width: 720px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url(descarga.jpg);
+                            
+                        }  
+                        
+                    .contenido{
+
+                        height: 280px;
+                        width: 100%;
+                        float: right;
+                        position: absolute;
+                        color: white;
+                        top: 300px;
+                    }
+                    .textoreligion{
+                    
+                        font-size: 20px;
+                        
+                        text-align: right;
+                        
+                        color: rgb(255, 255, 255); }
+                    .contenido{
+
+                        height: 280px;
+                        width: 100%;
+                        float: right;
+                        position: absolute;
+                        color: white;
+                        top: 300px;
+                    }
+                    .textobiologia{
+                
+                        font-size: 20px;
+                        
+                        text-align: right;
+                        
+                        color: rgb(255, 255, 255); }
+
+                        .contenido{
+
+                            height: 280px;
+                            width: 100%;
+                            float: right;
+                            position: absolute;
+                            color: white;
+                            top: 300px;
+                        }
+                        .textotecno2{
+                    
+                            font-size: 20px;
+                            
+                            text-align: right;
+                            
+                            color: rgb(255, 255, 255); }
+                            .contenido{
+
+                                height: 280px;
+                                width: 100%;
+                                float: right;
+                                position: absolute;
+                                color: white;
+                                top: 300px;
+                            }
+                            .textosociales2{
+                        
+                                font-size: 20px;
+                                
+                                text-align: right;
+                                
+                                color: rgb(255, 255, 255); }
+
+                                .contenido{
+
+                                    height: 280px;
+                                    width: 100%;
+                                    float: right;
+                                    position: absolute;
+                                    color: white;
+                                    top: 300px;
+                                }
+                                .textomate2{
+                            
+                                    font-size: 20px;
+                                    
+                                    text-align: right;
+                                    
+                                    color: rgb(255, 255, 255); }
+                                    .contenido{
+
+                                        height: 280px;
+                                        width: 100%;
+                                        float: right;
+                                        position: absolute;
+                                        color: white;
+                                        top: 300px;
+                                    }
+                                    .textoingles2{
+                                
+                                        font-size: 20px;
+                                        
+                                        text-align: left;
+                                        
+                                        color: rgb(255, 255, 255); }
+.imageningles1{
+        
+        
+background-repeat: no-repeat;
+                                            
+float:left;
+                                            
+height: 200px;
+                                            
+width: 400px;
+                                            
+margin-left: 5px;
+                                            
+margin-right:5px;
+                                            
+background-image: url(b8faae22-88fa-46a6-8416-6145aec7a3a6\ \(1\).jpg);
+                                            
+} 
+.imageningles2{
+        
+        
+    background-repeat: no-repeat;
+                                                
+    float:left;
+                                                
+    height: 280px;
+                                                
+    width: 400px;
+                                                
+    margin-left: 5px;
+                                                
+    margin-right:5px;
+                                                
+    background-image: url(WhatsApp\ Image\ 2023-11-03\ at\ 8.11.07\ PM.jpeg);
+                                                
+    }  
+    .imageningles3{
+        
+        
+        background-repeat: no-repeat;
+                                                    
+        float:left;
+                                                    
+        height: 200px;
+                                                    
+        width: 270px;
+                                                    
+        margin-left: 5px;
+                                                    
+        margin-right:5px;
+                                                    
+        background-image: url(0275fdcf-5bce-43de-967f-bd0ce7e0fcd0\ \(1\).jpg);
+                                                    
+        }  
+        .imageningles4{
+        
+        
+            background-repeat: no-repeat;
+                                                        
+            float:left;
+                                                        
+            height: 300px;
+                                                        
+            width: 500px;
+                                                        
+            margin-left: 5px;
+                                                        
+            margin-right:5px;
+                                                        
+            background-image: url(afadc608-cba2-496d-8965-7a4131f22ece.jpg);
+                                                        
+            }  
+            .imageningles5{
+        
+        
+                background-repeat: no-repeat;
+                                                            
+                float:left;
+                                                            
+                height: 300px;
+                                                            
+                width: 500px;
+                                                            
+                margin-left: 5px;
+                                                            
+                margin-right:5px;
+                                                            
+                background-image: url(0357ab67-bda5-4abe-bf02-553fca0fc411.jpg);
+                                                            
+                }
+                .imageningles6{
+        
+        
+                    background-repeat: no-repeat;
+                                                                
+                    float:left;
+                                                                
+                    height: 300px;
+                                                                
+                    width: 500px;
+                                                                
+                    margin-left: 5px;
+                                                                
+                    margin-right:5px;
+                                                                
+                    background-image: url(be6092f9-26d2-4278-996e-885676e76353.jpg);
+                                                                
+                    }  
+                    .imageningles7{
+        
+        
+                        background-repeat: no-repeat;
+                                                                    
+                        float:left;
+                                                                    
+                        height: 200px;
+                                                                    
+                        width: 400px;
+                                                                    
+                        margin-left: 5px;
+                                                                    
+                        margin-right:5px;
+                                                                    
+                        background-image: url(3db643fa-32bf-447e-90d0-ef312e85cbd2.jpg);
+                                                                    
+                        }  
+                        .imageningles8{
+        
+        
+                            background-repeat: no-repeat;
+                                                                        
+                            float:left;
+                                                                        
+                            height: 300px;
+                                                                        
+                            width: 500px;
+                                                                        
+                            margin-left: 5px;
+                                                                        
+                            margin-right:5px;
+                                                                        
+                            background-image: url(a33adb7d-1777-4302-8037-81082a9f1b45.jpg);
+                                                                        
+                            }  
+                                            
+                                    
+                                        
+                                
+                                    
+                            
+                                
+                        
+               
